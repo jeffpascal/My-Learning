@@ -25,6 +25,11 @@
 [Spring Framework Master Class - Beginner to Expert](https://learning.oreilly.com/library/view/spring-framework-master/9781788994576/)
 ![Completed](http://progressed.io/bar/36?title=Completed) 
 
+<details><summary>CLICK ME for progress bar usage</summary>
+<p>
+
+#### Progress bar Tutorial
+
 ```
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fehmicansaglam/progressed.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -49,3 +54,7 @@ http://progressed.io/bar/91?title=done
 http://progressed.io/bar/7?scale=10&title=mark&suffix=X
 ![Progress](http://progressed.io/bar/7?scale=10&title=mark&suffix=X)   
 ```
+
+
+</p>
+</details>
