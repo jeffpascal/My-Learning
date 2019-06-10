@@ -1,7 +1,7 @@
 Progress bar tutorial
 
-http://progressed.io/bar/91?title=done
-![Progress](http://progressed.io/bar/91?title=done) 
+[Angular: Up and Running](https://learning.oreilly.com/library/view/angular-up-and/9781491999820/)
+![In-progress](http://progressed.io/bar/91?title=In-progress) 
 
 
 ```
