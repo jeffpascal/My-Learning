@@ -1,4 +1,4 @@
-#### My learning so far with %completion
+## My learning so far with %completion
 ###### Note:
 - The courses marked with **Completed** are the ones that I got all the knowledge I needed from them
 - The percentage shown is the progress of my reading. (36% means that if there are 100 pages in the course, I read 36 of them)
