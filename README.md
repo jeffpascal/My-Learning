@@ -1,8 +1,8 @@
-# My learning so far with %completion
-## Clarifications
-- the courses marked with **Completed** are the ones that i got what i needed from them and saw no reason to continue due to my different focus
-- the percentage shown is the progress of my reading in the course.
-- every course here has detailed notes taken on github on my account
+#### My learning so far with %completion
+###### Note:
+- The courses marked with **Completed** are the ones that I got all the knowledge I needed from them
+- The percentage shown is the progress of my reading. (36% means that if there are 100 pages in the course, I read 36 of them)
+- Every course here has detailed notes taken on github on this account
 
 [Angular: Up and Running](https://learning.oreilly.com/library/view/angular-up-and/9781491999820/)
 ![In-progress](http://progressed.io/bar/8?title=In-progress) 
