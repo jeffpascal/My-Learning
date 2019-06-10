@@ -7,14 +7,14 @@
 [Angular: Up and Running](https://learning.oreilly.com/library/view/angular-up-and/9781491999820/)
 ![In-progress](http://progressed.io/bar/8?title=In-progress) 
 
-[Java EE 7 Performance Tuning and Optimization](https://learning.oreilly.com/library/view/java-ee-7/9781782176428/)
-![Completed](http://progressed.io/bar/69?title=Completed) 
-
 [Beginning Java Web Development](https://learning.oreilly.com/library/view/beginning-java-web/9781771376051/)
 ![In-progress](http://progressed.io/bar/29?title=In-progress) 
 
 [Hands-On Spring Security 5.x](https://learning.oreilly.com/library/view/hands-on-spring-security/9781789802931/)
 ![In-progress](http://progressed.io/bar/72?title=In-progress) 
+
+[Spring Framework Master Class - Beginner to Expert](https://learning.oreilly.com/library/view/spring-framework-master/9781788994576/)
+![In-progress](http://progressed.io/bar/36?title=In-progress) 
 
 [An Introduction to Web Development in HTML, CSS, and JavaScript](https://learning.oreilly.com/library/view/an-introduction-to/9781491923320/)
 ![Completed](http://progressed.io/bar/70?title=Completed) 
@@ -22,8 +22,8 @@
 [Mastering Bootstrap 4 - Second Edition](https://learning.oreilly.com/library/view/mastering-bootstrap-4/9781788834902/)
 ![Completed](http://progressed.io/bar/31?title=Completed) 
 
-[Spring Framework Master Class - Beginner to Expert](https://learning.oreilly.com/library/view/spring-framework-master/9781788994576/)
-![Completed](http://progressed.io/bar/36?title=Completed) 
+[Java EE 7 Performance Tuning and Optimization](https://learning.oreilly.com/library/view/java-ee-7/9781782176428/)
+![Completed](http://progressed.io/bar/69?title=Completed) 
 
 <details><summary>CLICK ME for progress bar usage</summary>
 <p>
