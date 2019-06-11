@@ -4,20 +4,24 @@
 - The percentage shown is the progress of my reading. (36% means that if there are 100 pages in the course, I read 36 of them)
 - Every course here has detailed notes taken on github on this account
 
+### Angular 
 [Angular: Up and Running](https://learning.oreilly.com/library/view/angular-up-and/9781491999820/)
 ![In-progress](http://progressed.io/bar/8?title=In-progress) 
 
+### Java
 [Beginning Java Web Development](https://learning.oreilly.com/library/view/beginning-java-web/9781771376051/)
 ![In-progress](http://progressed.io/bar/29?title=In-progress) 
 
+[An Introduction to Web Development in HTML, CSS, and JavaScript](https://learning.oreilly.com/library/view/an-introduction-to/9781491923320/)
+![Completed](http://progressed.io/bar/70?title=Completed) 
+
+##### Spring
 [Hands-On Spring Security 5.x](https://learning.oreilly.com/library/view/hands-on-spring-security/9781789802931/)
 ![In-progress](http://progressed.io/bar/72?title=In-progress) 
 
 [Spring Framework Master Class - Beginner to Expert](https://learning.oreilly.com/library/view/spring-framework-master/9781788994576/)
 ![In-progress](http://progressed.io/bar/36?title=In-progress) 
 
-[An Introduction to Web Development in HTML, CSS, and JavaScript](https://learning.oreilly.com/library/view/an-introduction-to/9781491923320/)
-![Completed](http://progressed.io/bar/70?title=Completed) 
 
 [Mastering Bootstrap 4 - Second Edition](https://learning.oreilly.com/library/view/mastering-bootstrap-4/9781788834902/)
 ![Completed](http://progressed.io/bar/31?title=Completed) 
