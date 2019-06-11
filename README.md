@@ -1,5 +1,6 @@
 ## My learning so far with current progress
 ###### Note:
+- Every item in this list is **EXTRA** learning i have done on my own to better my knowledge. University courses and mandatory learning is not shown here.
 - The courses marked with **Completed** are the ones that I got all the knowledge I needed from them
 - The percentage shown is the progress of my reading. (36% means that if there are 100 pages in the course, I read 36 of them)
 - Every course here has detailed notes taken on github on this account
