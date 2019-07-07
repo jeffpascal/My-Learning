@@ -10,6 +10,8 @@
 ![In-progress](http://progressed.io/bar/8?title=In-progress) 
 
 ### Java
+[Java: The Complete Reference, Eleventh Edition, 11th Edition](https://learning.oreilly.com/library/view/java-the-complete/9781260440249/)![In-progress](http://progressed.io/bar/12?title=In-progress) 
+
 [Beginning Java Web Development](https://learning.oreilly.com/library/view/beginning-java-web/9781771376051/)
 ![In-progress](http://progressed.io/bar/29?title=In-progress) 
 
