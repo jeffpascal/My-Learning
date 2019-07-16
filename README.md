@@ -6,8 +6,6 @@
 - Every course here has detailed notes taken on github on this account
 
 ### Software Architecture
-(16-07-2019) [Pragmatic Thinking and Learning by Andy Hunt](https://learning.oreilly.com/library/view/pragmatic-thinking-and/9781680500196/)
-![In-progress](http://progressed.io/bar/12?title=In-progress) 
 
 (16-07-2019) [I'm a Software Architect, Now What? by Nathaniel Schutta](https://learning.oreilly.com/library/view/im-a-software/9781491935842/)
 ![In-progress](http://progressed.io/bar/5?title=In-progress)
