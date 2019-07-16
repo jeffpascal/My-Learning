@@ -5,6 +5,10 @@
 - The percentage shown is the progress of my reading. (36% means that if there are 100 pages in the course, I read 36 of them)
 - Every course here has detailed notes taken on github on this account
 
+### Software Architecture
+(16-07-2019)[Pragmatic Thinking and Learning by Andy Hunt](https://learning.oreilly.com/library/view/pragmatic-thinking-and/9781680500196/)
+![In-progress](http://progressed.io/bar/12?title=In-progress) 
+
 ### Angular 
 [Angular: Up and Running](https://learning.oreilly.com/library/view/angular-up-and/9781491999820/)
 ![In-progress](http://progressed.io/bar/8?title=In-progress) 
