@@ -46,7 +46,7 @@
 ![Completed](http://progressed.io/bar/31?title=Completed) 
 
 ### Other
-[Pragmatic Thinking and Learning by Andy Hunt](https://learning.oreilly.com/library/view/pragmatic-thinking-and/9781680500196/)
+(12-07-2019) [Pragmatic Thinking and Learning by Andy Hunt](https://learning.oreilly.com/library/view/pragmatic-thinking-and/9781680500196/)
 ![Completed](http://progressed.io/bar/44?title=Completed) 
 
 <details><summary>CLICK ME for progress bar usage</summary>
