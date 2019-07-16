@@ -45,7 +45,9 @@
 [Mastering Bootstrap 4 - Second Edition](https://learning.oreilly.com/library/view/mastering-bootstrap-4/9781788834902/)
 ![Completed](http://progressed.io/bar/31?title=Completed) 
 
-
+### Other
+[https://learning.oreilly.com/library/view/pragmatic-thinking-and/9781680500196/](Pragmatic Thinking and Learning by Andy Hunt)
+![Completed](http://progressed.io/bar/44?title=Completed) 
 
 <details><summary>CLICK ME for progress bar usage</summary>
 <p>
