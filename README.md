@@ -15,7 +15,7 @@
 (16-07-2019) [Software Architecture Fundamentals, Second Edition By Neal Ford and Mark Richards](https://learning.oreilly.com/videos/software-architecture-fundamentals/9781491998991)
 ![In-progress](http://progressed.io/bar/0?title=In-progress)
 
-(16-07-2019) [https://learning.oreilly.com/library/view/software-architecture-for/9780128093382](Software Architecture for Big Data and the Cloud)
+(16-07-2019) [Software Architecture for Big Data and the Cloud](https://learning.oreilly.com/library/view/software-architecture-for/9780128093382)
 ![In-progress](http://progressed.io/bar/0?title=In-progress)
 
 ### Angular 
