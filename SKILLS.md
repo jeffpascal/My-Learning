@@ -26,3 +26,6 @@ Linux command line - advanced beginner
 - Think back to problems you’ve experienced on a project team. Could any of them have been avoided if the team had been aware of the Dreyfus model? What can you do differently going forward?
 
 - Think of your teammates: Where are they on their journey? How can that be helpful to you?
+
+
+### Get something to take notes on, and keep it with you
