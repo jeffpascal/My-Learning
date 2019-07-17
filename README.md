@@ -52,6 +52,7 @@
 - Rewire your brain with belief and constant practice.
 - Add sensory experience to engage more of your brain.
 - Cultivate humor to build stronger metaphors.
+- Step away from the keyboard to solve hard problems.
 
 ### We want to use R-mode(intuitive side of the brain, non-linear) more than we have because the R-mode provides intuition, and that’s something we desperately need in order to become experts. We cannot be expert without it. The Dreyfus model emphasizes the expert’s reliance on tacit knowledge; that’s over here in the R-mode as well. Experts rely on seeing and discriminating patterns; pattern matching is here too.
 - if you’re looking for global, holistic patterns, you need R-mode. If you need to analyze parts and look into the detail, then you need a more L-mode approach. For most of us, this level of specialization is how it is. R-mode sees the forest; L-mode sees the trees.
