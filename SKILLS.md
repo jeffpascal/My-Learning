@@ -29,3 +29,37 @@ Linux command line - advanced beginner
 
 
 ### Get something to take notes on, and keep it with you
+
+actions : 
+
+New Habits
+
+Do morning pages for at least two weeks.
+
+Hone a quick wit. Look for connections or analogies between unrelated things.
+
+Involve more senses when faced with a tricky problem. What works best for you?
+
+Read something different from your usual material, for example, fiction, not science fiction, and so on.
+
+Try a different genre of movie, vacation, music, or coffee.
+
+Order something you’ve never had at your favorite restaurant.
+
+Turn each problem around. What can you learn from the reverse?
+
+Try This
+
+Deliberately vary your morning routine or other consistent habit.
+
+Hold a design session using Lego blocks or office supplies.[74]
+
+Take a class or start a hobby that involves more R-mode processing. Work on it daily.
+
+Use the buddy system: have a buddy help keep you motivated, and discuss your progress.
+
+Think of a metaphor, or set of metaphors, that would largely describe your current project (it may be helpful to think in terms of something very tangible). Try to come up with a few jokes about it using metaphor or exaggeration.
+
+Look at experts you know. What “quirky” habits now make more sense to you?
+
+What words can you add to your workplace lexicon?
