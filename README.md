@@ -57,6 +57,19 @@
 
 - According to Stanford University research psychologist Carol Dweck, author of Mindset: The New Psychology of Success [Dwe08], students who believed they could not increase their intelligence in fact couldn’t. Those who believed in the plasticity of their brains increased their abilities easily. PS: Think you can learn anything, mindset is everything.
 
+- Use cross-sensory feedback to increase brain usage.
+
+    - Write it down in your usual form.
+
+    - Draw a picture (not UML or an official diagram; just a picture). What visual metaphor is appropriate?
+
+    - Describe it verbally.
+
+    - Engage in open discussion with your teammates; respond to questions and criticisms, and so on.
+
+    - Act out the roles involved. (Any physical metaphors come to mind? We’ll talk a lot about metaphors shortly.)
+
+
 <details><summary>CLICK ME for progress bar usage</summary>
 <p>
 
