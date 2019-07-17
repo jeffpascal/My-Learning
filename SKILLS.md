@@ -32,7 +32,7 @@ Linux command line - advanced beginner
 
 actions : 
 
-New Habits
+- New Habits
 
 Do morning pages for at least two weeks.
 
@@ -48,7 +48,7 @@ Order something you’ve never had at your favorite restaurant.
 
 Turn each problem around. What can you learn from the reverse?
 
-Try This
+- Try This
 
 Deliberately vary your morning routine or other consistent habit.
 
