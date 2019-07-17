@@ -47,6 +47,9 @@
 (12-07-2019) [Pragmatic Thinking and Learning by Andy Hunt](https://learning.oreilly.com/library/view/pragmatic-thinking-and/9781680500196/)
 ![Completed](http://progressed.io/bar/44?title=Completed) 
 
+### We want to use R-mode(intuitive side of the brain, non-linear) more than we have because the R-mode provides intuition, and that’s something we desperately need in order to become experts. We cannot be expert without it. The Dreyfus model emphasizes the expert’s reliance on tacit knowledge; that’s over here in the R-mode as well. Experts rely on seeing and discriminating patterns; pattern matching is here too.
+
+
 <details><summary>CLICK ME for progress bar usage</summary>
 <p>
 
