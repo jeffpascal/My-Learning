@@ -8,10 +8,10 @@
 ### Software Architecture
 
 (16-07-2019) [I'm a Software Architect, Now What? by Nathaniel Schutta](https://learning.oreilly.com/library/view/im-a-software/9781491935842/)
-![In-progress](http://progressed.io/bar/5?title=In-progress)
+![In-progress](http://progressed.io/bar/22?title=In-progress)
 
 (16-07-2019) [Software Architecture Fundamentals, Second Edition By Neal Ford and Mark Richards](https://learning.oreilly.com/videos/software-architecture-fundamentals/9781491998991)
-![In-progress](http://progressed.io/bar/0?title=In-progress)
+![In-progress](http://progressed.io/bar/13?title=In-progress)
 
 (16-07-2019) [Software Architecture for Big Data and the Cloud](https://learning.oreilly.com/library/view/software-architecture-for/9780128093382)
 ![In-progress](http://progressed.io/bar/0?title=In-progress)
@@ -21,7 +21,7 @@
 ![In-progress](http://progressed.io/bar/8?title=In-progress) 
 
 ### Java
-[Java: The Complete Reference, Eleventh Edition, 11th Edition](https://learning.oreilly.com/library/view/java-the-complete/9781260440249/)![In-progress](http://progressed.io/bar/29?title=In-progress) 
+[Java: The Complete Reference, Eleventh Edition, 11th Edition](https://learning.oreilly.com/library/view/java-the-complete/9781260440249/)![In-progress](http://progressed.io/bar/33?title=In-progress) 
 
 [Beginning Java Web Development](https://learning.oreilly.com/library/view/beginning-java-web/9781771376051/)
 ![In-progress](http://progressed.io/bar/29?title=In-progress) 
@@ -37,11 +37,11 @@
 ![In-progress](http://progressed.io/bar/72?title=In-progress) 
 
 [Spring Framework Master Class - Beginner to Expert](https://learning.oreilly.com/library/view/spring-framework-master/9781788994576/)
-![In-progress](http://progressed.io/bar/36?title=In-progress) 
+![In-progress](http://progressed.io/bar/42?title=In-progress) 
 
 
 [Mastering Bootstrap 4 - Second Edition](https://learning.oreilly.com/library/view/mastering-bootstrap-4/9781788834902/)
-![Completed](http://progressed.io/bar/31?title=Completed) 
+![Completed](http://progressed.io/bar/35?title=Completed) 
 
 ### Other
 (12-07-2019) [Pragmatic Thinking and Learning by Andy Hunt](https://learning.oreilly.com/library/view/pragmatic-thinking-and/9781680500196/)
