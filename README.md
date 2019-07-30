@@ -5,6 +5,9 @@
 - The percentage shown is the progress of my reading. (36% means that if there are 100 pages in the course, I read 36 of them)
 - Every course here has detailed notes taken on github on this account
 
+# [Certificates]
+- [Reactive Architecture: Introduction to Reactive Systems](https://courses.cognitiveclass.ai/certificates/c10a2412834947318bca369d1865e3d1)
+
 ### Software Architecture
 
 (16-07-2019) [I'm a Software Architect, Now What? by Nathaniel Schutta](https://learning.oreilly.com/library/view/im-a-software/9781491935842/)
