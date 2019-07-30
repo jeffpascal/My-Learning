@@ -5,7 +5,7 @@
 - The percentage shown is the progress of my reading. (36% means that if there are 100 pages in the course, I read 36 of them)
 - Every course here has detailed notes taken on github on this account
 
-# [Certificates]
+# Certificates
 - [Reactive Architecture: Introduction to Reactive Systems](https://courses.cognitiveclass.ai/certificates/c10a2412834947318bca369d1865e3d1)
 
 ### Software Architecture
