@@ -50,6 +50,8 @@
 (12-07-2019) [Pragmatic Thinking and Learning by Andy Hunt](https://learning.oreilly.com/library/view/pragmatic-thinking-and/9781680500196/)
 ![Completed](http://progressed.io/bar/52?title=In-progress) 
 
+(31-07-2019)[Understanding Agile DevOps](https://learning.oreilly.com/library/view/understanding-agile-devops/9781492028499/ch01.html#idm140629115401744)
+
 # Learning recipes
 - Learn by synthesis (by doing it yourself) as well as by analysis.
 - Rewire your brain with belief and constant practice.
